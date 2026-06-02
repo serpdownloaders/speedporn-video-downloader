@@ -1,0 +1,209 @@
+{
+  "github_source_repo": "https://github.com/serpcompany/speedporn-downloader",
+  "serply_link": "https://serp.ly/speedporn-downloader",
+  "app_name": "Speedporn Video Downloader",
+  "short_description": "Download & Save Speedporn Videos Easily for Offline Viewing (Browser Extension)",
+  "long_description": "Speedporn Downloader is a lightweight browser extension that detects video streams on SpeedPorn pages and lets you download them directly to your device. It works on Chrome, Edge, Brave, and Firefox, giving you a simple way to save content for offline viewing. The extension integrates directly into your browser so you can start downloads without leaving the page.",
+  "main_video": "",
+  "featured_image": "",
+  "screenshots": [
+    "https://apps.serp.co/media/optimized-products/speedporn-downloader-fullscreen-01-838af3d577.webp",
+    "https://apps.serp.co/media/optimized-products/speedporn-downloader-fullscreen-02-06615d70b2.webp",
+    "https://apps.serp.co/media/optimized-products/speedporn-downloader-fullscreen-03-5429a3fbff.webp",
+    "https://apps.serp.co/media/optimized-products/speedporn-downloader-fullscreen-04-2b6b2dbd25.webp"
+  ],
+  "chromestore_link": "",
+  "firefoxstore_link": "",
+  "other_links": [],
+  "faqs": [
+    {
+      "question": "Do I need an account to use the extension?",
+      "answer": "No account is required to start downloading. The trial gives you 3 free downloads without signing up."
+    },
+    {
+      "question": "Is the extension free?",
+      "answer": "The extension includes a free trial with 3 downloads. A paid license is needed for unlimited use."
+    },
+    {
+      "question": "Which browsers are supported?",
+      "answer": "Chrome, Edge, Brave, and Firefox are supported. Check the latest release for browser-specific builds."
+    },
+    {
+      "question": "Can I download videos in different qualities?",
+      "answer": "When multiple quality options are available, the extension will show them in the popup for you to choose from."
+    },
+    {
+      "question": "Will the extension work if SpeedPorn changes their site?",
+      "answer": "The extension is regularly updated to maintain compatibility with SpeedPorn. Check the releases page for updates."
+    }
+  ],
+  "permissions": [
+    {
+      "name": "",
+      "description": "Only download content you own or have explicit permission to save"
+    }
+  ],
+  "features": [
+    "Detects video streams automatically on SpeedPorn pages",
+    "Downloads videos in MP4 format for broad compatibility",
+    "Works across Chrome, Edge, Brave, and Firefox",
+    "Simple popup interface for quick access",
+    "No external software or account required",
+    "Detects video streams automatically when you play a video on SpeedPorn",
+    "Downloads videos in MP4 format with no conversion needed",
+    "Simple popup interface accessible from the browser toolbar",
+    "Supports multiple quality options when available",
+    "Works on Chrome, Edge, Brave, and Firefox browsers",
+    "No registration or account required to start downloading",
+    "Lightweight extension that does not slow down your browser",
+    "Regular updates to maintain compatibility with SpeedPorn"
+  ],
+  "content": {
+    "why": [
+      "Watching videos on SpeedPorn is fine when you have a stable internet connection, but buffering, slow loading, and data limits can get in the way. You might want to save a video for later without relying on your connection every time you want to watch it. Most browsers do not offer a built-in way to download streaming video, so you are left searching for workarounds that rarely work reliably.",
+      "Speedporn Downloader fills that gap by adding a simple download button directly to your browser. It detects the video stream playing on the page and lets you save it as an MP4 file with a couple of clicks. No complicated setup, no extra tools, just a straightforward way to keep the videos you want accessible offline."
+    ],
+    "how_it_works": [
+      "Install the extension from the latest release.",
+      "Open SpeedPorn and go to a supported video page.",
+      "Start playback so the extension can detect the media.",
+      "Open the popup or use the on-page controls.",
+      "Choose the quality option you want.",
+      "Start the download and wait for the MP4 export to finish.",
+      "Save the final file locally."
+    ],
+    "tutorial": [
+      "Install the Speedporn Downloader extension from the latest GitHub release.",
+      "Open your browser and navigate to speedporn.net.",
+      "Browse to the video you want to download and click to open its page.",
+      "Start playing the video to allow the extension to detect the stream.",
+      "Click the Speedporn Downloader icon in your browser toolbar.",
+      "The popup will show available quality options for the detected video.",
+      "Select the quality you prefer and click the download button.",
+      "Wait for the download to complete and save the MP4 file to your device."
+    ],
+    "supported_formats": [
+      "Input: Video streams detected on SpeedPorn pages during playback",
+      "Output: MP4",
+      "Saved files use MP4 so they are easier to replay on standard media players, move between devices, or archive locally."
+    ],
+    "target_users": [
+      "Viewers who want to save SpeedPorn videos for offline playback",
+      "Users with slow or unreliable internet connections who prefer local files",
+      "People who want to build a personal archive of their favorite content",
+      "Anyone who wants a simple, no-hassle way to download videos without extra software"
+    ],
+    "use_cases": [
+      "Downloading videos to watch later without an internet connection",
+      "Saving content before it is removed or changed on the platform",
+      "Building a local library of videos for personal use",
+      "Avoiding buffering issues by playing files directly from your device",
+      "Transferring videos to other devices that do not have internet access"
+    ],
+    "troubleshooting": [
+      "The extension does not detect any video Make sure the video is playing on the page. The extension needs an active stream to detect the media source.",
+      "The download button is grayed out Try refreshing the page and starting the video playback again. Some pages may need a moment to load the stream.",
+      "The download fails partway through Check your internet connection and try again. Large files may also be affected by browser download limits.",
+      "I cannot see the extension icon The extension may not be pinned to your toolbar. Check your browser's extension menu and pin it for easy access.",
+      "The extension does not work on a specific page Some SpeedPorn pages may use different video players. Try navigating to a different video to see if the issue is page-specific."
+    ],
+    "trial_access": [
+      "Includes 3 free downloads so you can test the workflow first",
+      "Email sign-in uses secure one-time password verification",
+      "No credit card required for the trial",
+      "Unlimited downloads are available with a paid license"
+    ],
+    "installation_instructions": [
+      "Open the latest release page.",
+      "Download the correct build for your browser.",
+      "Install the extension.",
+      "Open a supported SpeedPorn page.",
+      "Use the popup to detect and download the media."
+    ],
+    "notes": [
+      "Only download content you own or have explicit permission to save",
+      "An internet connection is required for downloads",
+      "SpeedPorn may update their site structure, which could temporarily affect detection",
+      "The extension works best with standard video pages on speedporn.net"
+    ],
+    "about": [
+      "SpeedPorn is an adult video platform that hosts a large collection of user-uploaded and curated content across many categories. The Speedporn Downloader extension makes it easy to save videos from the site for offline access, giving you more control over how and when you watch."
+    ]
+  },
+  "serpx_link": "https://serpx.link/speedporn-downloader",
+  "github_topics": [
+    "speedporn-download",
+    "speedporn-downloader",
+    "speedporn-video-downloader",
+    "speedporn-video-downloader-online",
+    "speedporn-video-downloader-mac",
+    "speedporn-video-downloader-window",
+    "speedporn-video-downloader-free",
+    "speedporn-video-downloader-extension",
+    "speedporn-video-downloader-app",
+    "speedporn-video-downloader-chrome",
+    "speedporn-video-downloader-from-url",
+    "how-to-download-speedporn-videos",
+    "how-to-download-speedporn-videos-mac",
+    "how-to-download-speedporn-videos-windows",
+    "how-to-download-speedporn-videos-online",
+    "how-to-download-speedporn-videos-free",
+    "how-to-download-from-speedporn",
+    "how-to-download-videos-from-speedporn",
+    "download-speedporn-videos",
+    "speedporn-video-tutorial",
+    "save-speedporn-videos",
+    "speedporn-video-content-saver",
+    "how-to-download-speedporn-videos-for-free"
+  ],
+  "hashtags": [
+    "#SpeedpornDownload",
+    "#SpeedpornDownloader",
+    "#SpeedpornVideoDownloader",
+    "#SpeedpornVideoDownloaderOnline",
+    "#SpeedpornVideoDownloaderMac",
+    "#SpeedpornVideoDownloaderWindow",
+    "#SpeedpornVideoDownloaderFree",
+    "#SpeedpornVideoDownloaderExtension",
+    "#SpeedpornVideoDownloaderApp",
+    "#SpeedpornVideoDownloaderChrome",
+    "#SpeedpornVideoDownloaderFromURL",
+    "#HowToDownloadSpeedpornVideos",
+    "#HowToDownloadSpeedpornVideosMac",
+    "#HowToDownloadSpeedpornVideosWindows",
+    "#HowToDownloadSpeedpornVideosOnline",
+    "#HowToDownloadSpeedpornVideosFree",
+    "#HowToDownloadFromSpeedporn",
+    "#HowToDownloadVideosFromSpeedporn",
+    "#DownloadSpeedpornVideos",
+    "#SpeedpornVideoTutorial",
+    "#SaveSpeedpornVideos",
+    "#SpeedpornVideoContentSaver",
+    "#HowToDownloadSpeedpornVideosForFree"
+  ],
+  "youtube_tags": [
+    "Speedporn Download",
+    "Speedporn Downloader",
+    "Speedporn Video Downloader",
+    "Speedporn Video Downloader Online",
+    "Speedporn Video Downloader Mac",
+    "Speedporn Video Downloader Window",
+    "Speedporn Video Downloader Free",
+    "Speedporn Video Downloader Extension",
+    "Speedporn Video Downloader App",
+    "Speedporn Video Downloader Chrome",
+    "Speedporn Video Downloader From URL",
+    "How To Download Speedporn Videos",
+    "How To Download Speedporn Videos Mac",
+    "How To Download Speedporn Videos Windows",
+    "How To Download Speedporn Videos Online",
+    "How To Download Speedporn Videos Free",
+    "How To Download From Speedporn",
+    "How To Download Videos From Speedporn",
+    "Download Speedporn Videos",
+    "Speedporn Video Tutorial",
+    "Save Speedporn Videos",
+    "Speedporn Video Content Saver",
+    "How To Download Speedporn Videos For Free"
+  ]
+}
